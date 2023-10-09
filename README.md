@@ -16,6 +16,12 @@ Helpful functions to make using SPA easier. This includes examples for running g
 
 <br />
 
+[SPA Zoo](https://github.com/filipmazurek/spa-zoo)
+
+A collection of examples for how to use SPA. 
+
+<br />
+
 [MICRO Artifact](https://github.com/filipmazurek/spa-artifact)
 
 The associated artifact for the MICRO publication https://doi.org/10.1145/3613424.3623785. 
