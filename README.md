@@ -1,6 +1,6 @@
 # SPA: SMC for Processor Analysis
 
-This is a redirect page for all SPA-related repositories. 
+Companion repository for the MICRO article [Rigorous Evaluation of Computer Processors with Statistical Model Checking](https://dl.acm.org/doi/abs/10.1145/3613424.3623785)
 
 <br />
 
